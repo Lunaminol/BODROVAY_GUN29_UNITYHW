@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
+<<<<<<< HEAD
+  productGUID: 4243a9f35d9cc924fb292d542808d2f6
+=======
   productGUID: 96b6593a7ce3d1d42a7d1d26bb92fe34
+>>>>>>> 0bf7623e97d7c6fad24159dbd9430b76bf908a4d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
+  productName: Empty Project
+=======
   productName: Serialization
+>>>>>>> 0bf7623e97d7c6fad24159dbd9430b76bf908a4d
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -719,10 +727,17 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
+  cloudProjectId: 968e97a2-dde6-4161-b0aa-7d27470a9706
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Empty Project
+=======
   cloudProjectId: 93812476-da5e-4b18-a123-d37189160028
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Serialization 2024-07-01_15-09-04
+>>>>>>> 0bf7623e97d7c6fad24159dbd9430b76bf908a4d
   organizationId: anymaley
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
